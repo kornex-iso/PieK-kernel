@@ -1,0 +1,3 @@
+void network_init()
+{
+}
